@@ -1,4 +1,5 @@
 #Live Sales Tracker
+
 ##Tools:
 - Raspberry Pi
 - Weight Sensor
