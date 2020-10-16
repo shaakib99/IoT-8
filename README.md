@@ -4,6 +4,9 @@
 - Raspberry Pi
 - Weight Sensor
 - Django as backend.
+- MongoDB Atlas as CloudDB
+- ChartJS to visualize data
+- Ajax
 - Script written in python
 
 ## Featuers:
