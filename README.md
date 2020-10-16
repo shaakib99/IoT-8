@@ -1,6 +1,6 @@
-#Live Sales Tracker
+# Live Sales Tracker
 
-##Tools:
+## Tools:
 - Raspberry Pi
 - Weight Sensor
 - Django as backend.
